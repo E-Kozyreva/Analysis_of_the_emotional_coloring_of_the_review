@@ -20,7 +20,6 @@ del_symb_rev = Preprocessing.delete_symbols(reviews)
 lower_rev = Preprocessing.lower_review(del_symb_rev)
 Vectorization.vectorization_reviews(lower_rev)
 
-
 with open("vectorized.json", "r") as read_file:
     load_data = json.load(read_file)
 
