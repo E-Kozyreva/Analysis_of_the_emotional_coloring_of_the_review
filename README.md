@@ -4,7 +4,7 @@
 * Python 3.8.0
 
 ## Как начать
-* `git clone git@github.com:E-Kozyreva/Analysis_of_the_emotional_coloring_of_the_review.git`
+* `git clone git@github.com:E-Kozyreva/фnalysis_of_the_emotional_coloring_of_the_review.git`
 * `cd Analysis_of_the_emotional_coloring_of_the_review`
 * `python -m venv venv`
 * `venv\Scripts\activate`
