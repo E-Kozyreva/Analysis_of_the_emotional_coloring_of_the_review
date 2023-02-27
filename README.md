@@ -5,7 +5,7 @@
 
 ## Как начать
 * `git clone git@github.com:E-Kozyreva/analysis_of_the_emotional_coloring_of_the_review.git`
-* `cd Analysis_of_the_emotional_coloring_of_the_review`
+* `cd analysis_of_the_emotional_coloring_of_the_review`
 * `python -m venv venv`
 * `venv\Scripts\activate`
 * `pip install -r requirements.txt`
